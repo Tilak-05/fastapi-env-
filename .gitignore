@@ -1,0 +1,9 @@
+__pychache__
+fastapi-env
+.DS_store
+venv/
+.env/
+Lib/
+Scripts/
+Include/
+pyvenv.cfg
