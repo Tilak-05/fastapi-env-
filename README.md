@@ -1,10 +1,3 @@
-Perfect 
-You want a **clear, professional, recruiter-friendly README** that actually explains what you learned — not just basic setup steps.
-
-Here is a **clean, structured, professional README** you can directly copy-paste 
-
----
-
 #  FastAPI Learning Repository – `fastapi-env-`
 
 This repository documents my hands-on learning journey with **FastAPI**, a modern Python framework used to build high-performance APIs.
